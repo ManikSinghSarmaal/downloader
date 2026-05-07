@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-College Video Scraper Pro v2.0
-Advanced scraping tool for college video repositories
+Video Scraper Pro v2.0
+Advanced scraping tool for video repositories
 """
 
 import customtkinter as ctk
