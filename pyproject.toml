@@ -1,0 +1,14 @@
+[project]
+name = "vid-aggreg"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "customtkinter>=5.2.2",
+    "opencv-python>=4.13.0.92",
+    "pillow>=12.2.0",
+    "requests>=2.33.1",
+    "selenium>=4.43.0",
+    "webdriver-manager>=4.0.2",
+]
